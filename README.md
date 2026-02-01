@@ -31,18 +31,22 @@ I’m into coding, сomputer science, opsec, linux and to learn new things.
 
 <h3>My Socials</h3>
 <p align="left" style="display: flex; gap: 60px;">
-  <a href="https://t.me/wades" target="_blank" style="text-decoration:none;">
+  <a href="https://t.me/wades" target="_blank" style="text-decoration: none !important;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-         width="40" height="40" alt="Telegram">
+         width="40" height="40" alt="Telegram"
+         style="display: block; text-decoration: none; border: 0;">
   </a>
 
-  <a href="https://discord.com/users/1053338738157178931" target="_blank" style="text-decoration:none;">
+  <a href="https://discord.com/users/1053338738157178931" target="_blank" style="text-decoration: none !important;">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png"
-         width="40" height="40" alt="Discord">
+         width="40" height="40" alt="Discord"
+         style="display: block; text-decoration: none; border: 0;">
   </a>
 
-  <a href="https://t.me/slvtc" target="_blank" style="text-decoration:none;">
+  <a href="https://t.me/slvtc" target="_blank" style="text-decoration: none !important;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-         width="40" height="40" alt="Telegram Channel">
+         width="40" height="40" alt="Telegram Channel"
+         style="display: block; text-decoration: none; border: 0;">
   </a>
 </p>
+
