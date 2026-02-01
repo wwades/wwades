@@ -31,15 +31,15 @@ I’m into coding, сomputer science, opsec, linux and to learn new things.
 
 <h3>My Socials</h3>
 <p align="left">
-  <a href="https://t.me/wades" target="_blank" style="text-decoration:none; border:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram" style="border:none;">
+  <a href="https://t.me/wades" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram" style="border: none; outline: none; text-decoration: none;">
   </a>
   &nbsp;
-  <a href="https://t.me/slvtc" target="_blank" style="text-decoration:none; border:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram Channel" style="border:none;">
+  <a href="https://t.me/slvtc" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram Channel" style="border: none; outline: none; text-decoration: none;">
   </a>
   &nbsp;
-  <a href="https://discord.com/users/1053338738157178931" target="_blank" style="text-decoration:none; border:none;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="40" height="40" alt="Discord" style="border:none;">
+  <a href="https://discord.com/users/1053338738157178931" target="_blank" style="text-decoration: none;">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="40" height="40" alt="Discord" style="border: none; outline: none; text-decoration: none;">
   </a>
 </p>
