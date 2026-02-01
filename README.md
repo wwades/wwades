@@ -19,6 +19,8 @@ I’m into coding, сomputer science, opsec, linux and to learn new things.
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="48" vertical-align="middle" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zen-browser-dark.png" height="48" vertical-align="middle" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" height="48" vertical-align="middle" />
 </p>
 
 <h3>Development Tools</h3>
