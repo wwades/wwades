@@ -1,7 +1,7 @@
 # Hi, I'm Wade. 🎼
 
 
-I’m into coding, сomputer science, opsec, linux.
+I’m into coding, сomputer science, opsec and linux.
 
 ###
 ![Profile view counter](https://komarev.com/ghpvc/?username=wwades&color=2c2c2c)
