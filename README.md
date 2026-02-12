@@ -1,7 +1,7 @@
 # Hi, I'm Wade. 🎼
 
 
-I’m into coding, сomputer science, opsec and linux.
+I’m into coding, сomputer science and cyber security.
 
 ###
 ![Profile view counter](https://komarev.com/ghpvc/?username=wwades&color=2c2c2c)
@@ -23,7 +23,7 @@ I’m into coding, сomputer science, opsec and linux.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" height="48" vertical-align="middle" />
 </p>
 
-<h3>Development Tools</h3>
+<h3>Dev Tools</h3>
 
 [![My Tools](https://skillicons.dev/icons?i=github,git,vscode,pycharm,powershell)](https://github.com/wwades)
 
