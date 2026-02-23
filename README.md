@@ -1,26 +1,27 @@
 <div align="center">
-  <img src="[https://trashbox.ru/ifiles2/1918704_0f3722_l-intro-1707406173.jpg_min1.jpg/2024-02-16-google-integrirovala-gemini-v-brwser-5.webp](https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg)" width="600" alt="Gemini Banner" style="border-radius: 10px;">
+  <img src="https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg" width="100%" alt="Gemini Google Logo" style="border-radius: 10px;">
 
   # Gemini Telegram Bot
-  ### My first Python project | Built with aiogram
+  ### My First Python Project | Built with aiogram 3
 </div>
 
 ---
 
 ## Description
-This is my debut project in Python development. It's a fully functional Telegram bot that integrates **Google Gemini AI** to provide intelligent responses, analyze images, and assist with coding tasks. 
+This is my debut project in **Python** development. It is a high-performance Telegram bot that integrates the **Google Gemini Pro** API to provide intelligent responses, analyze images, and assist with coding tasks.
 
-By using the **aiogram** framework, the bot handles requests asynchronously, ensuring high speed and stability even under load.
+By leveraging the **aiogram** framework, the bot handles requests asynchronously, ensuring near-instant response times and stability.
 
-## Features
-* **Fast & Async:** Powered by `aiogram` for near-instant response times.
-* **AI Intelligence:** Direct integration with Gemini Pro models.
-* **Code-Friendly:** Excellent at generating and explaining code snippets.
-* **Opsec Focused:** Built with environment variable security to keep API keys private.
-* **Windows 11 Optimized:** Fully tested and stable on Win 11 environments.
+## Key Features
+* **Asynchronous Engine:** Powered by `aiogram` for high-speed performance.
+* **Multimodal Support:** Ability to process and understand images sent in chat.
+
+
 
 ## Tech Stack
 * **Language:** Python 3.10+
-* **Framework:** [aiogram](https://docs.aiogram.dev/)
+* **Framework:** [aiogram 3](https://docs.aiogram.dev/)
 * **AI Engine:** Google Generative AI
-* **Tools:** Zen Browser (Dev environment), venv, python-dotenv
+* **Environment:** python-dotenv, venv
+
+---
