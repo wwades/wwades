@@ -1,16 +1,18 @@
-## Hi there 👋
+<img align="left" src="https://i.pinimg.com/736x/e0/f3/b5/e0f3b5244786139f14f41028d3f613c7.jpg" width="350" alt="banner" style="margin-right: 20px" />
 
-<!--
-**wwades/wwades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Wade. 🎼
+<img src="https://komarev.com/ghpvc/?username=wwades&color=2c2c2c&style=flat-square" alt="Profile view counter" />
 
-Here are some ideas to get you started:
+I’m into coding, computer science and cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Stack:**
+<br>
+<a href="https://github.com/wwades"><img src="https://skillicons.dev/icons?i=python" /></a>
+
+**My Tools:**
+<br>
+<img src="https://skillicons.dev/icons?i=obsidian,vscode,github" />
+
+
+
+<br clear="left"/>
