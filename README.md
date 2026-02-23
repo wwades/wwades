@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://trashbox.ru/ifiles2/1918704_0f3722_l-intro-1707406173.jpg_min1.jpg/2024-02-16-google-integrirovala-gemini-v-brwser-5.webp" width="600" alt="Gemini Banner" style="border-radius: 10px;">
+  <img src="[https://trashbox.ru/ifiles2/1918704_0f3722_l-intro-1707406173.jpg_min1.jpg/2024-02-16-google-integrirovala-gemini-v-brwser-5.webp](https://www.androidauthority.com/wp-content/uploads/2023/12/Gemini-Google-Logo.jpg)" width="600" alt="Gemini Banner" style="border-radius: 10px;">
 
   # Gemini Telegram Bot
   ### My first Python project | Built with aiogram
