@@ -3,16 +3,16 @@
 ### Hi, I'm Wade. 🎼
 <img src="https://komarev.com/ghpvc/?username=wwades&color=2c2c2c&style=flat-square" alt="Profile view counter" />
 
-I’m into coding, computer science and cyber security.
+
 
 **My Stack:**
 <br>
 <a href="https://github.com/wwades"><img src="https://skillicons.dev/icons?i=python" /></a>
 
-**My Software:**
+**Want to learn:**
 <br>
 <a href="https://github.com/wwades">
-  <img src="https://skillicons.dev/icons?i=tor,vscode,proton,zen" />
+  <img src="https://skillicons.dev/icons?i=rust,c" />
 </a>
 
 <br clear="left"/>
