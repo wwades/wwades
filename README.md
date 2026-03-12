@@ -9,10 +9,6 @@ I’m into coding, computer science and cyber security.
 <br>
 <a href="https://github.com/wwades"><img src="https://skillicons.dev/icons?i=python" /></a>
 
-**My Tools:**
-<br>
-<img src="https://skillicons.dev/icons?i=obsidian,vscode,github" />
-
 
 
 <br clear="left"/>
