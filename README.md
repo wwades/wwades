@@ -1,4 +1,4 @@
-<img align="left" src="https://i.pinimg.com/736x/e0/f3/b5/e0f3b5244786139f14f41028d3f613c7.jpg" width="350" alt="banner" style="margin-right: 20px" />
+<img align="left" src="https://i.pinimg.com/1200x/15/09/92/1509921f8d90d01fe0aa4cedada27c79.jpg" width="350" alt="banner" style="margin-right: 20px" />
 
 ### Hi, I'm Wade. 🎼
 <img src="https://komarev.com/ghpvc/?username=wwades&color=2c2c2c&style=flat-square" alt="Profile view counter" />
