@@ -4,7 +4,6 @@
 
 
 
-
 **My Stack:**
 <br>
 <a href="https://github.com/wwades"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -14,5 +13,10 @@
 <a href="https://github.com/wwades">
   <img src="https://skillicons.dev/icons?i=rust,c,mysql" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=wwades&color=2c2c2c&style=flat-square" alt="Profile view counter" />
+
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wwades&color=2c2c2c&style=flat-square" alt="Profile view counter" />
+</p>
+
 <br clear="left"/>
