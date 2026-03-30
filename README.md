@@ -1,4 +1,4 @@
-<img align="left" src="[https://i.pinimg.com/736x/59/d4/3e/59d43ec85ba4001cccc568f733f4a375.jpg](https://g3t-real.tumblr.com/post/98201514092)" width="350" alt="banner" style="margin-right: 20px" />
+<img align="left" src="https://i.pinimg.com/736x/70/e5/99/70e59980a892d0c88718d9ad93efc273.jpg" width="350" alt="banner" style="margin-right: 20px" />
 
 ### Hi, I'm Wade. 
 
