@@ -2,14 +2,9 @@
 
 <h1>wade / begginer DevSecOps specialist </h1>
 
-###  My Stack
-<img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
-
-###  Currently Learning
-<img src="https://skillicons.dev/icons?i=rust,c,docker" height="45" alt="learning stack" />
-
+### Currently learning
+<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql" height="45" alt="python logo" />
 <br>
-
 <img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
 
 <br clear="left"/>
