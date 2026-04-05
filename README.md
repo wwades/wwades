@@ -1,27 +1,17 @@
-<h1 align="center">Hi, I'm Wade. ~/</h1>
+<img align="left" src="https://cnews24.ru/uploads/07d/07da4d685ed9be0fe13ced50582bf5a975789946.jpg" width="350" alt="My Photo" />
 
-<p align="center">
-  <img src="https://cnews24.ru/uploads/07d/07da4d685ed9be0fe13ced50582bf5a975789946.jpg" width="400" alt="My Photo" />
-</p>
+<h1>Hi, I'm Wade. ~/</h1>
 
-### 💻 My Stack:
+###  My Stack:
+<img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-</div>
+<br>
 
-### 🚀 Want to learn:
+###  Want to learn:
+<img src="https://skillicons.dev/icons?i=rust,c,docker" height="45" alt="learning stack" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,docker" height="50" alt="learning stack" />
-</div>
+<br>
 
-### 📊 GitHub Stats:
+<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=wwades&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<br clear="left"/>
