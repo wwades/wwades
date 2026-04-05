@@ -3,10 +3,10 @@
 # I'm wade.
 
 ### Currently learning
-<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,linux,terraform,kubernetes,ansible,aws" height="40" alt="learning" />
+<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible,aws" height="40" alt="learning" />
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=gruvbox_dark&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
 
 <br clear="left"/>
