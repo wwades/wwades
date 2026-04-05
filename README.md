@@ -7,6 +7,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
 
 <br clear="left"/>
