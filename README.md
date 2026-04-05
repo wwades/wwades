@@ -5,6 +5,6 @@
 ### Currently learning
 <img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,linux,terraform,kubernetes,ansible,aws" height="45" alt="learning" />
 <br>
-<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=wwades&theme=dracula&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
 
 <br clear="left"/>
