@@ -1,6 +1,7 @@
 <img align="left" src="https://preview.redd.it/spotted-two-stickers-in-stockholm-today-v0-xtiub7wanv9a1.jpg?width=1080&crop=smart&auto=webp&s=cc8bc14f91a3d0470e4a3e08cf41f72a5f43cb53" width="320" alt="My Photo" />
 
-## I'm wade.
+<br/>
+<b><font size="6">I'm wade.</font></b>
 
 ### Currently learning
 <img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible,aws" height="40" alt="learning" />
