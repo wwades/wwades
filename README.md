@@ -3,7 +3,7 @@
 ### I'm wade.
 
 ### Currently learning
-<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible,aws" height="40" alt="learning" />
+<img src="https://skillicons.dev/icons?i=py,rust,c,docker,mysql,terraform,kubernetes,ansible" height="40" alt="learning" />
 
 <br/>
 
