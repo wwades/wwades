@@ -1,4 +1,4 @@
-<img align="left" src="https://preview.redd.it/spotted-two-stickers-in-stockholm-today-v0-xtiub7wanv9a1.jpg?width=1080&crop=smart&auto=webp&s=cc8bc14f91a3d0470e4a3e08cf41f72a5f43cb53" width="320" alt="My Photo" />
+<img align="left" src="https://i.pinimg.com/736x/ee/0f/76/ee0f76ea142ba9ebf18d328bf80a2b0b.jpg" width="320" alt="My Photo" />
 
 ### I'm wade.
 
